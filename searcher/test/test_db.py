@@ -40,6 +40,6 @@ def test_calculate_freq():
 def test():
 	#test_db()
 	#test_tire()
-	#test_load_data()
-	#test_calculate_freq()
+	# test_load_data()
+	# test_calculate_freq()
 	pass
