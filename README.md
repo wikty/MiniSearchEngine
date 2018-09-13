@@ -4,15 +4,15 @@
 
 Core Components：Crawler, Indexer builder, WebServer
 
-![](se_framework.png)
+![](imgs/se_framework.png)
 
 ## Crawler Framwork
 
-![](crawler.png)
+![](imgs/crawler.png)
 
 ## Indexer builder Framwork
 
-![](preprocessor.png)
+![](imgs/preprocessor.png)
 
 ## Document Preprocess
 
@@ -27,7 +27,7 @@ Document -> Tokens&Positions
 
 Build Indexer(index document-set by token)
 
-![](inverted_indexer.png)
+![](imgs/inverted_indexer.png)
 
 ## How To Store Indexer
 
@@ -71,8 +71,8 @@ Build Indexer(index document-set by token)
 
 Represent document and query as vectors(consist of term weight)
 
-![](doc_vector.png)
-![](query_vector.png)
+![](imgs/doc_vector.png)
+![](imgs/query_vector.png)
 
 ## Term Weight
 
@@ -94,7 +94,7 @@ How to calucalte TF-IDF? Why TF-IDF?
 
 sort query-related document list by the similarity with the query 
 
-![](similarity.png)
+![](imgs/similarity.png)
 
 ## Extract Document Snippet
 
